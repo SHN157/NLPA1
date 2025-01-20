@@ -12,7 +12,7 @@
  - ID: st125166
 
 ## Files Structure
- - The `code` folder contains Jupyter Notebook files for training different models:
+ - The `code` folder contains Jupyter Notebook files for training and testing different models:
    - Skipgram
    - Skipgram with Negative Sampling
    - GloVe
